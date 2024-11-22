@@ -1,0 +1,41 @@
+[00:00:00] Hey guys, in this video, I'm going to show you how to summarize a YouTube video with
+[00:00:04] ChatGPT.
+[00:00:05] So as you know, some videos on YouTube are very long and you might have not enough time
+[00:00:09] to watch the complete video.
+[00:00:11] So you can use ChatGPT to summarize a video.
+[00:00:14] However, if you copy the URL of the video, come back to ChatGPT and write, summarize
+[00:00:19] me this video, and then you paste the URL here, this is not going to work.
+[00:00:23] I think this method was working in the past, but not anymore.
+[00:00:27] So what you want to do is to get the transcript of a video.
+[00:00:31] Most of the YouTube videos actually do have a transcript.
+[00:00:34] You can find the transcript of a video when you scroll down to the description part, you
+[00:00:40] need to open it, and then you see here the show transcript button, click on that.
+[00:00:45] And now on the right side, you should see this transcript box.
+[00:00:48] Now we need to copy it, but before that you can toggle the timestamps, we don't need to
+[00:00:52] copy it.
+[00:00:53] Okay, and now what you need to do is to copy this transcript and paste it to ChatGPT and
+[00:01:01] it will start summarizing the video.
+[00:01:03] But this was actually a short video, so the summary is also kind of short.
+[00:01:08] So you can also say here, summarize me the video as key points.
+[00:01:12] Okay, so when you say that, it is going to summarize it by bullet points.
+[00:01:18] So this example can work very well for shorter videos.
+[00:01:22] But what if the video is very long?
+[00:01:25] There will be a problem if you want to get the transcript of a long video, because first
+[00:01:31] of all, the transcript will be so long that you won't be able to copy the whole transcript
+[00:01:39] to ChatGPT.
+[00:01:40] And secondly, even if you achieve to copy the whole script, ChatGPT may not accept it
+[00:01:45] as one prompt because the script is too long.
+[00:01:48] So in this case, there is an alternative you can use, which is installing a Google Chrome
+[00:01:53] extension.
+[00:01:54] So if you are using Google Chrome, you need to search the term ChatGPT Chrome extension
+[00:01:59] and it should take you to this extension here, ChatGPT for Chrome and YouTube summary.
+[00:02:04] And once you install the extension, you should see this little box here saying transcript
+[00:02:10] and summary.
+[00:02:11] Now when you expand it, you can see the complete transcript.
+[00:02:16] Now without doing it manually, if you click on this button here, it will directly take
+[00:02:21] you to ChatGPT and summarize this text for you.
+[00:02:26] It takes us to ChatGPT and as you can see, it also copied the complete transcript and
+[00:02:32] here it already summarized it.
+[00:02:34] You can use this extension if you don't want to do this manually by yourself.
+[00:02:39] If you find this video helpful, please hit the like button and see you guys in the next
+[00:02:42] video.

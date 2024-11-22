@@ -1,0 +1,29 @@
+video:
+  max_duration_minutes: 60
+  supported_languages: ["en"]
+
+transcription:
+  model: "base"
+  task: "transcribe"
+  chunk_duration: 30
+
+text_processing:
+  chunk_size: 500
+  chunk_overlap: 50
+  min_chunk_length: 100
+
+vector_store:
+  pinecone:
+    environment: "your-environment"
+    index_name: "video-chunks"
+    dimension: 1536
+    metric: "cosine"
+
+openai:
+  model: "gpt-3.5-turbo"
+  temperature: 0.7
+  max_tokens: 300
+
+streamlit:
+  title: "Video RAG System"
+  description: "Ask questions about YouTube videos and get instant answers!"
